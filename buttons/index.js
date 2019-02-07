@@ -4,6 +4,7 @@ module.exports = () => (
       '.button': {
         padding: '.5rem 1rem',
         fontSize: config('textSizes.base'),
+        fontWeight: config('fontWeights.semibold'),
         borderRadius: config('borderRadius.default'),
         '&:hover, &:active, &:focus': {
           outline: 0,
