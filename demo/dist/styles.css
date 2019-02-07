@@ -577,14 +577,6 @@ a {
   cursor: not-allowed;
 }
 
-.button.button__small {
-  font-size: .75rem;
-}
-
-.button.button__large {
-  font-size: 1.25rem;
-}
-
 .button.button__block {
   display: block;
   width: 100%;

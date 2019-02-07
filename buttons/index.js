@@ -14,12 +14,6 @@ module.exports = () => (
           cursor: 'not-allowed',
         },
       },
-      '.button.button__small': {
-        fontSize: config('textSizes.xs'),
-      },
-      '.button.button__large': {
-        fontSize: config('textSizes.xl'),
-      },
       '.button.button__block': {
         display: 'block',
         width: '100%',
@@ -38,7 +32,7 @@ module.exports = () => (
       },
       '.button.button__primary': {
         backgroundColor: config('colors.primary'),
-        color: '#ffffff',
+        color: config('colors.white'),
         '&:hover, &:active, &:focus': {
           backgroundColor: config('colors.primary-dark'),
         },
@@ -50,7 +44,7 @@ module.exports = () => (
       },
       '.button.button__success': {
         backgroundColor: config('colors.green'),
-        color: '#ffffff',
+        color: config('colors.white'),
         '&:hover, &:active, &:focus': {
           backgroundColor: config('colors.green-dark'),
         },
@@ -62,7 +56,7 @@ module.exports = () => (
       },
       '.button.button__info': {
         backgroundColor: config('colors.teal'),
-        color: '#fff',
+        color: config('colors.white'),
         '&:hover, &:active, &:focus': {
           backgroundColor: config('colors.teal-dark'),
         },
@@ -86,7 +80,7 @@ module.exports = () => (
       },
       '.button.button__danger': {
         backgroundColor: config('colors.red'),
-        color: '#ffffff',
+        color: config('colors.white'),
         '&:hover, &:active, &:focus': {
           backgroundColor: config('colors.red-dark'),
         },
@@ -98,7 +92,7 @@ module.exports = () => (
       },
       '.button.button__dark': {
         backgroundColor: config('colors.grey-darkest'),
-        color: '#ffffff',
+        color: config('colors.white'),
         '&:hover, &:active, &:focus': {
           backgroundColor: config('colors.black'),
         },
