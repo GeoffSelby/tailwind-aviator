@@ -1,5 +1,5 @@
 # Tailwind Aviator
-A collection of plugins for TailwindCss
+A collection of plugins for Tailwind CSS
 
 ## Note
 This project is currently pre-alpha. It is not yet suitable for use in production.
