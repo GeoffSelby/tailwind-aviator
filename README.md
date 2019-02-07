@@ -5,7 +5,7 @@ A collection of plugins for Tailwind CSS
 This project is currently pre-alpha. It is not yet suitable for use in production.
 
 ## Contributions are welcome
-If you would like to contribute to Aviator, submit a pull request so I can review it. All are welcome to contribute.
+If you would like to contribute to Tailwind Aviator, submit a pull request so I can review it. All are welcome to contribute.
 If there is a feature you would like to see, create an issue and it will be tagged for others to see.
 
 ## License
